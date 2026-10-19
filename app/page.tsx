@@ -211,7 +211,7 @@ export default function Home() {
 
       <footer className="border-t border-white/10 px-6 py-8">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-4 text-sm text-slate-500 sm:flex-row sm:items-center lg:px-4">
-          <p>© {new Date().getFullYear()} DAKOTECH ROBOTICS CLUB</p>
+          <p>© 2026 DAKOTECH ROBOTICS CLUB</p>
           <p>Conçu avec passion pour la robotique et l'innovation.</p>
         </div>
       </footer>
