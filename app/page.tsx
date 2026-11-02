@@ -200,11 +200,11 @@ export default function Home() {
             Tu aimes la robotique, l'électronique ou la programmation ?
             Rejoins notre aventure et donnons vie à tes idées.
           </p>
-          <a href="mailto:contact@dakotech.example" className="mt-8 inline-flex rounded-xl bg-cyan-400 px-6 py-3.5 font-bold text-slate-950 transition hover:bg-cyan-300">
+          <a href="mailto:dakotech0@gmail.com" className="mt-8 inline-flex rounded-xl bg-cyan-400 px-6 py-3.5 font-bold text-slate-950 transition hover:bg-cyan-300">
             Prendre contact ↗
           </a>
           <p className="mt-4 text-xs text-slate-500">
-            Adresse e-mail provisoire à remplacer par celle du club.
+            Écris-nous à dakotech0@gmail.com
           </p>
         </div>
       </section>
