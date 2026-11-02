@@ -203,9 +203,27 @@ export default function Home() {
           <a href="mailto:dakotech0@gmail.com" className="mt-8 inline-flex rounded-xl bg-cyan-400 px-6 py-3.5 font-bold text-slate-950 transition hover:bg-cyan-300">
             Prendre contact ↗
           </a>
-          <p className="mt-4 text-xs text-slate-500">
-            Écris-nous à dakotech0@gmail.com
-          </p>
+          <p className="mt-4 text-sm text-slate-300">
+  Email :{" "}
+  <a
+    href="mailto:dakotech0@gmail.com"
+    className="text-cyan-300 hover:underline"
+  >
+    dakotech0@gmail.com
+  </a>
+</p>
+
+<p className="mt-2 text-sm text-slate-300">
+  Téléphone :{" "}
+  <a
+    href="tel:+212687085637"
+    className="text-cyan-300 hover:underline"
+  >
+    +212 687 085 637
+  </a>
+</p>
+         
+        
         </div>
       </section>
 
